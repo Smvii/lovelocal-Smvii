@@ -1,0 +1,5 @@
+Step -1  Run a loop for each row of pascal’s triangle i.e. 1 to N.
+
+Step-2   For each row, run an internal loop for each element of that row.
+
+Step-3   Calculate the binomial coefficient for the element using the formula mentioned in the approach.
